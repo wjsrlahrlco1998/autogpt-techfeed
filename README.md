@@ -1,1 +1,1 @@
-# Notion AI Techfeed
+# AutoGPT TechFeed
